@@ -54,9 +54,9 @@ This application is licensed under the MIT License. See the [LICENSE](LICENSE) f
     &nbsp;&nbsp;
     <img src="./docs/img/addnote_page.png" alt="addnote_page" width="250">
     &nbsp;&nbsp;
-    <img src="./docs/img/addednotes_page.png" alt="addednotes_page" width="240">
+    <img src="./docs/img/addednotes_page.png" alt="addednotes_page" width="245">
     &nbsp;&nbsp;
     <img src="./docs/img/confirmdelete_page.png" alt="confirmdelete_page" width="250">
     &nbsp;&nbsp;
-    <img src="./docs/img/about_page.png" alt="about_page" width="240">
+    <img src="./docs/img/about_page.png" alt="about_page" width="245">
 </p>
